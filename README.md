@@ -8,6 +8,6 @@ coming soon
 coming soon
 
 ### To-do
-[ ] Dynamic theming
-[ ] Better calculations for dimensional properties
-[ ] Add sizing
+-[ ] Dynamic theming
+-[ ] Better calculations for dimensional properties
+-[ ] Add sizing
