@@ -1,5 +1,4 @@
 // iCheck SVG Mixin
-
 .icheck-fill(@src, @fill-default, @fill-new) {
     @escape-fill-default: escape(@fill-default);
     @escape-fill-new: escape(@fill-new);
@@ -13,7 +12,6 @@
 
 /* iCheck plugin Flat skin, LESS
 ----------------------------------- */
-
 @elemHeight: 22px;
 @elemWidth: 22px;
 
@@ -27,7 +25,7 @@
     width: @elemHeight;
     height: @elemWidth;
     .icheck-fill("flat.svg", "#333333", "@{brand_color}");
-	  background-repeat: no-repeat;
+    background-repeat: no-repeat;
     border: none;
     cursor: pointer;
 }
